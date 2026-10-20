@@ -1,0 +1,8 @@
+# Fitxers de log
+*.log
+
+# Carpeta temporal
+tmp/
+
+# Configuracio privada
+config.private.txt
